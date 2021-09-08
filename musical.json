@@ -1,0 +1,72 @@
+[
+  {
+    "cello": [
+              {
+                "a2" : {"sounds": ["celloAudio/a2-stac-rr1-PB.wav"]},
+                "a3" : {"sounds": ["celloAudio/a3-stac-rr1-PB.wav"]},
+                "a4" : {"sounds": ["celloAudio/a4-stac-rr1-PB.wav"]},
+                "b2" : {"sounds": ["celloAudio/b2-stac-rr1-PB.wav"]},
+                "b3" : {"sounds": ["celloAudio/b3-stac-rr1-PB.wav"]},
+                "b4" : {"sounds": ["celloAudio/b4-stac-rr1-PB.wav"]},
+                "c2" : {"sounds": ["celloAudio/c2-stac-rr1-PB.wav"]},
+                "c3" : {"sounds": ["celloAudio/c3-stac-rr1-PB.wav"]},
+                "c4" : {"sounds": ["celloAudio/c4-stac-rr1-PB.wav"]},
+                "d2" : {"sounds": ["celloAudio/d2-stac-rr1-PB.wav"]},
+                "d3" : {"sounds": ["celloAudio/d3-stac-rr1-PB.wav"]},
+                "d4" : {"sounds": ["celloAudio/d4-stac-rr1-PB.wav"]},
+                "e2" : {"sounds": ["celloAudio/e2-stac-rr1-PB.wav"]},
+                "e3" : {"sounds": ["celloAudio/e3-stac-rr1-PB.wav"]},
+                "e4" : {"sounds": ["celloAudio/e4-stac-rr1-PB.wav"]},
+                "f2" : {"sounds": ["celloAudio/f2-stac-rr1-PB.wav"]},
+                "f3" : {"sounds": ["celloAudio/f3-stac-rr1-PB.wav"]},
+                "f4" : {"sounds": ["celloAudio/f4-stac-rr1-PB.wav"]},
+                "g2" : {"sounds": ["celloAudio/g2-stac-rr1-PB.wav"]},
+                "g3" : {"sounds": ["celloAudio/g3-stac-rr1-PB.wav"]},
+                "g4" : {"sounds": ["celloAudio/g4-stac-rr1-PB.wav"]}
+              }
+          ]
+  },
+  {
+    "piano": [
+              {
+                "A3" : {"pianoKey": ["pianoKeys/A3.mp3"]},
+                "A4" : {"pianoKey": ["pianoKeys/A4.mp3"]},
+                "A5" : {"pianoKey": ["pianoKeys/A5.mp3"]},
+                "Ab3" : {"pianoKey": ["pianoKeys/Ab3.mp3"]},
+                "Ab4" : {"pianoKey": ["pianoKeys/Ab4.mp3"]},
+                "Ab5" : {"pianoKey": ["pianoKeys/Ab5.mp3"]},
+                "B3" : {"pianoKey": ["pianoKeys/B3.mp3"]},
+                "B4" : {"pianoKey": ["pianoKeys/B4.mp3"]},
+                "B5" : {"pianoKey": ["pianoKeys/B5.mp3"]},
+                "Bb3" : {"pianoKey": ["pianoKeys/Bb3.mp3"]},
+                "Bb4" : {"pianoKey": ["pianoKeys/Bb4.mp3"]},
+                "Bb5" : {"pianoKey": ["pianoKeys/Bb5.mp3"]},
+                "C3" : {"pianoKey": ["pianoKeys/C3.mp3"]},
+                "C4" : {"pianoKey": ["pianoKeys/C4.mp3"]},
+                "C5" : {"pianoKey": ["pianoKeys/C5.mp3"]},
+                "D3" : {"pianoKey": ["pianoKeys/D3.mp3"]},
+                "D4" : {"pianoKey": ["pianoKeys/D4.mp3"]},
+                "D5" : {"pianoKey": ["pianoKeys/D5.mp3"]},
+                "Db3" : {"pianoKey": ["pianoKeys/Db3.mp3"]},
+                "Db4" : {"pianoKey": ["pianoKeys/Db4.mp3"]},
+                "Db5" : {"pianoKey": ["pianoKeys/Db5.mp3"]},
+                "E3" : {"pianoKey": ["pianoKeys/E3.mp3"]},
+                "E4" : {"pianoKey": ["pianoKeys/E4.mp3"]},
+                "E5" : {"pianoKey": ["pianoKeys/E5.mp3"]},
+                "Eb3" : {"pianoKey": ["pianoKeys/Eb3.mp3"]},
+                "Eb4" : {"pianoKey": ["pianoKeys/Eb4.mp3"]},
+                "Eb5" : {"pianoKey": ["pianoKeys/Eb5.mp3"]},
+                "F3" : {"pianoKey": ["pianoKeys/F3.mp3"]},
+                "F4" : {"pianoKey": ["pianoKeys/F4.mp3"]},
+                "F5" : {"pianoKey": ["pianoKeys/F5.mp3"]},
+                "G3" : {"pianoKey": ["pianoKeys/G3.mp3"]},
+                "G4" : {"pianoKey": ["pianoKeys/G4.mp3"]},
+                "G5" : {"pianoKey": ["pianoKeys/G5.mp3"]},
+                "Gb3" : {"pianoKey": ["pianoKeys/Gb3.mp3"]},
+                "Gb4" : {"pianoKey": ["pianoKeys/Gb4.mp3"]},
+                "Gb5" : {"pianoKey": ["pianoKeys/Gb5.mp3"]}
+              }
+          ]
+
+  }
+]
